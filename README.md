@@ -41,7 +41,7 @@
   <summary>Quelques statistiques ...</summary><br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-789%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -84,10 +84,10 @@ Sunday                   61 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tashkent
 
 💬 Programming Languages: 
-TypeScript               10 hrs 59 mins      ██████████████░░░░░░░░░░░   56.32 % 
+TypeScript               10 hrs 59 mins      ██████████████░░░░░░░░░░░   56.34 % 
 Vue.js                   4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
 TSQL                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+JavaScript               1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 ActionScript 3           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
@@ -110,6 +110,6 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2023 00:45:29 UTC
+ Last Updated on 30/08/2023 00:45:18 UTC
 <!--END_SECTION:waka-->
 </details>
